@@ -1,5 +1,3 @@
-![me](https://github.com/Jesse1211/Jesse1211/geometry.gif)
-
 <div align="center" >
 
 Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven student with proven skills in programming in **Cornell University**.
@@ -53,6 +51,7 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse1211&theme=dark&layout=compact" />
 
-### Contact me:
-- Personal website: in construction
+### Contact me: 
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jesse-liu-0613201b4/)
 - Email: [![Email](https://img.shields.io/badge/zl942@cornell.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zl942@cornell.edu)
+- Personal website: in construction
