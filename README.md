@@ -39,6 +39,7 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.ks](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
 )
+
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
