@@ -1,6 +1,6 @@
 <div align="center" >
 
-Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven student with proven skills in programming in **Cornell University**.
+Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven student with proven skills in programming at **Cornell University**.
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
