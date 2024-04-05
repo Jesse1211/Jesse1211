@@ -58,5 +58,5 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 
 ### Contact me: 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jesse-liu-0613201b4/)
-- Email: [![Email](https://img.shields.io/badge/zl942@cornell.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zl942@cornell.edu)
+- Email: [![Email](https://img.shields.io/badge/zl942@cornell.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zl942@cornell.edu) [![Email](https://img.shields.io/badge/zhenhualiu1211@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zhenhualiu1211@gmail.com)
 - Personal website: in construction
