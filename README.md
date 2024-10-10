@@ -58,4 +58,5 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 
 ### Contact me: 
 - [LinkedIn](https://www.linkedin.com/in/jesse-liu-0613201b4/)
-- [Personal website](httpsL//jesseliu.me)
+- [Personal website](https://jesseliu.me)
+- [Blog website](https://blog.jesseliu.me)
