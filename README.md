@@ -50,8 +50,6 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
 
 <div>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jesse1211&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&rank_icon=percentile&custom_title=My%20GitHub%20Stats"  />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse1211&theme=dark&layout=compact" />
 </div>
 
