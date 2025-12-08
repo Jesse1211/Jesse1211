@@ -12,7 +12,7 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 </div>
 
 
-  
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,6 +44,7 @@ Hi there, I'm **Jesse**, a Full stack Engineer, an independent and self-driven s
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+![ML](https://img.shields.io/badge/ML-Machine%20Learning-success)
 </div>
 
 <!--Trap--:)-->
