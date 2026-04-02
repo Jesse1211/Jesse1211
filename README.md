@@ -1,6 +1,12 @@
 <div align="center" >
 
-It's **Jesse**, a Full Stack Engineer, Applied AI Engineer, an independent and self-driven student with proven skills graduated from **Cornell University**.
+It's **Jesse**, 
+
+A Full Stack Engineer, 
+
+An Applied AI Engineer, 
+
+An independent and self-driven student graduated from **Cornell University**.
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
