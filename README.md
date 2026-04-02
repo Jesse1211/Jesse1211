@@ -56,11 +56,6 @@ An independent and self-driven student graduated from **Cornell University**.
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse1211&theme=dark&layout=compact" />
-</div>
-
-
 ### Contact me: 
 - [LinkedIn](https://www.linkedin.com/in/jesse-liu-0613201b4/)
 - [Personal website](https://jesseliu.me)
